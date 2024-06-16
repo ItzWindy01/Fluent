@@ -7,15 +7,15 @@ return {
 	AcrylicGradient = ColorSequence.new(Color3.fromRGB(255, 255, 255), Color3.fromRGB(255, 255, 255)),
 	AcrylicNoise = 0.96,
 
-	TitleBarLine = Color3.fromRGB(160, 160, 160),
+	TitleBarLine = Color3.fromRGB(255, 0, 255),
 	Tab = Color3.fromRGB(90, 90, 90),
 
 	Element = Color3.fromRGB(255, 255, 255),
-	ElementBorder = Color3.fromRGB(180, 180, 180),
-	InElementBorder = Color3.fromRGB(150, 150, 150),
+	ElementBorder = Color3.fromRGB(255, 0, 255),
+	InElementBorder = Color3.fromRGB(255, 0, 255),
 	ElementTransparency = 0.65,
 
-	ToggleSlider = Color3.fromRGB(40, 40, 40),
+	ToggleSlider = Color3.fromRGB(255, 0, 255),
 	ToggleToggled = Color3.fromRGB(255, 255, 255),
 
 	SliderRail = Color3.fromRGB(40, 40, 40),
@@ -38,10 +38,10 @@ return {
 	DialogButtonBorder = Color3.fromRGB(190, 190, 190),
 	DialogBorder = Color3.fromRGB(140, 140, 140),
 	DialogInput = Color3.fromRGB(250, 250, 250),
-	DialogInputLine = Color3.fromRGB(160, 160, 160),
+	DialogInputLine = Color3.fromRGB(255, 0, 255),
 
-	Text = Color3.fromRGB(0, 0, 0),
-	SubText = Color3.fromRGB(40, 40, 40),
+	Text = Color3.fromRGB(255, 0, 255),
+	SubText = Color3.fromRGB(255, 135, 249),
 	Hover = Color3.fromRGB(50, 50, 50),
 	HoverChange = 0.16,
 }
